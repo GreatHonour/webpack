@@ -60,7 +60,7 @@
     "not ie <= 8"
   ],
   "dependencies": {
-    "jquery": "1.12.4",
+    "jquery": "3.5.0",
     "md5": "^2.2.1"
   }
 }
